@@ -39,4 +39,4 @@ vagrant destroy -f
 ```
 
 ### References  
-pass
+1. https://app.vagrantup.com/generic/boxes/debian9/versions/1.9.2 -- Vagrant box

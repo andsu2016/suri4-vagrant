@@ -1,6 +1,6 @@
 # suri4-vagrant
 
-This Vagrant file make suricata from source code.
+This Vagrant file for make suricata from source code.
 
 ### Version  
 OS: `Debian 9.8`  

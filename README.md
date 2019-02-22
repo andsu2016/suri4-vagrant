@@ -3,7 +3,7 @@
 This Vagrant file for make suricata from source code.
 
 ### Version  
-OS: `Debian 9.8`  
+OS: `Debian 9.7.0`  
 Suricata: `4.1.2`  
 Vagrant: `2.0.2`  
 

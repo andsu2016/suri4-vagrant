@@ -23,7 +23,9 @@ Vagrant: `2.0.2`
 
 
 ### Provide select  
-`vagrant up --provider=[vmware_fusion/virtualbox/etc]`
+```
+vagrant up --provider=[vmware_fusion/virtualbox/etc]
+```
 
 
 ### Reinstall

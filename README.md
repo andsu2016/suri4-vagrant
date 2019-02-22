@@ -14,7 +14,7 @@ Vagrant: `2.0.2`
 ```  
 git clone https://github.com/as202/suri4-vagrant.git  
 cd suri4-vagrant/  
-vagrant up --provider=vitrualbox  
+vagrant up --provider=virtualbox  
 ```
 
 ### Tests  
